@@ -269,7 +269,7 @@ span {
 }
 
 .logo {
-    background-image: url("/Resources/amazon_logo.png");
+    background-image: url("Resources/amazon_logo.png");
     height: 50px;
     width: 100%;
     background-size: cover;
